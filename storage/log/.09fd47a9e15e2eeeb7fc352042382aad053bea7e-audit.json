@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "storage\\log\\.09fd47a9e15e2eeeb7fc352042382aad053bea7e-audit.json",
+    "files": [
+        {
+            "date": 1702638504805,
+            "name": "storage\\log\\msg.log.2023-12-15",
+            "hash": "bc3cf4866e0f930da7a34e3ea6768f09638fbdf4c4cdb0241159511ceb60e62c"
+        },
+        {
+            "date": 1702700151756,
+            "name": "storage\\log\\msg.log.2023-12-16",
+            "hash": "31abe7b2f9e2e805548ec52a31d2b9aeb1630425d6acf59a2e482f10b3175403"
+        },
+        {
+            "date": 1702873166104,
+            "name": "storage\\log\\msg.log.2023-12-18",
+            "hash": "b3b16b2255836e7b01d44885be40ed3f11aae757e7f83f7e0f28eb71ffb7a8b4"
+        },
+        {
+            "date": 1702962528414,
+            "name": "storage\\log\\msg.log.2023-12-19",
+            "hash": "01e1856d43ff17be2595c78b0752fb73cf6eca360255bfd6a1cb93d4f5d3da1a"
+        },
+        {
+            "date": 1703044781296,
+            "name": "storage\\log\\msg.log.2023-12-20",
+            "hash": "0e71f8809b5361aea2edb1ad370c30ef8f4334d8d850b89a2cb9cbfde9b8c48a"
+        },
+        {
+            "date": 1703131294317,
+            "name": "storage\\log\\msg.log.2023-12-21",
+            "hash": "c54e7b286270092faf8122f1e62a7d892d289ce0128540a2d3343bd607a041c0"
+        },
+        {
+            "date": 1703216575435,
+            "name": "storage\\log\\msg.log.2023-12-22",
+            "hash": "b635b8c3f87954cca13e6babad8303b23f13a4ddd2d719a3c5fe7e85b653d61e"
+        },
+        {
+            "date": 1703563032022,
+            "name": "storage\\log\\msg.log.2023-12-26",
+            "hash": "32a0af93a2821d15901a59868b55b5a0051a0f29b130e178ad82c23876e4394d"
+        },
+        {
+            "date": 1703649804409,
+            "name": "storage\\log\\msg.log.2023-12-27",
+            "hash": "a3ba1400fdf4ddfa67169ba0d48ab1037da986f47b56d8bfb2c07eb43b239ffc"
+        },
+        {
+            "date": 1703767823337,
+            "name": "storage\\log\\msg.log.2023-12-28",
+            "hash": "d1f0fa168a60bcb75d7cbabee1179bf6747c9c8c87e1209cc99bf78ae351db7b"
+        }
+    ],
+    "hashType": "sha256"
+}

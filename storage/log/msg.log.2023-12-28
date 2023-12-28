@@ -1,0 +1,48 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'address' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `address` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'addresstypes' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `addresstypes` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'business' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `business` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Businessgroups' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `Businessgroups` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'cites' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `cites` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'countries' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `countries` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'grouppermissions' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `grouppermissions` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'historyrecord' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `historyrecord` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'permissionmaster' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `permissionmaster` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'states' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `states` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usertogroups' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usertogroups` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'address' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `address` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'addresstypes' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `addresstypes` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'business' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `business` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Businessgroups' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `Businessgroups` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'cites' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `cites` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'countries' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `countries` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'grouppermissions' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `grouppermissions` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'historyrecord' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `historyrecord` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'permissionmaster' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `permissionmaster` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'states' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `states` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usertogroups' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usertogroups` FROM `usermanagement`"}

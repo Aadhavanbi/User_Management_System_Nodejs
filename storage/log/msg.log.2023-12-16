@@ -1,0 +1,797 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'arun@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'sooraj@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'sooraj@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `image` BLOB, `sex` VARCHAR(255), `date_of_birth` VARCHAR(255), `password` VARCHAR(255), PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`password`) VALUES (DEFAULT,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `sex` VARCHAR(255), `date_of_birth` VARCHAR(255), `password` VARCHAR(255), PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`password`) VALUES (DEFAULT,?,?,?,?,?);"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`password`) VALUES (DEFAULT,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`password`) VALUES (DEFAULT,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `sex` VARCHAR(255), `date_of_birth` VARCHAR(255), `password` VARCHAR(255), PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`date_of_birth`,`password`) VALUES (DEFAULT,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`date_of_birth`,`password`) VALUES (DEFAULT,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`date_of_birth`,`password`) VALUES (DEFAULT,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`date_of_birth`,`password`) VALUES (DEFAULT,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`sex`,`date_of_birth`,`password`) VALUES (DEFAULT,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` , `date_of_birth` VARCHAR(255), `password` VARCHAR(255), PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL, `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255), `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagements` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagements` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagements' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagements` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`id` INTEGER NOT NULL auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`user_id` INTEGER auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`user_id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`user_id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): INSERT INTO `usermanagement` (`user_id`,`user_name`,`email`,`mobile_number`,`role`,`date_of_birth`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'HistoryEventTable' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `HistoryEventTable` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `HistoryEventTable` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'historyevent' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `historyevent` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `historyevent` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'historyevent' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `historyevent` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'historyevent' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `historyevent` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`user_id` INTEGER auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'usermanagement' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `usermanagement` (`user_id` INTEGER auto_increment , `user_name` VARCHAR(255), `email` VARCHAR(255), `mobile_number` VARCHAR(10), `role` VARCHAR(255) NOT NULL DEFAULT 'user', `date_of_birth` VARCHAR(255), `password` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `usermanagement` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'history_event' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `history_event` (`event_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `event_type` VARCHAR(50) NOT NULL, `timestamp` DATETIME, `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`event_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `history_event` FROM `usermanagement`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'preferences' AND TABLE_SCHEMA = 'usermanagement'"}
+{"level":"info","message":"Executing (default): CREATE TABLE IF NOT EXISTS `preferences` (`preference_id` INTEGER auto_increment , `user_id` INTEGER NOT NULL, `theme` VARCHAR(20), `language` VARCHAR(20), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL, PRIMARY KEY (`preference_id`), FOREIGN KEY (`user_id`) REFERENCES `usermanagement` (`user_id`)) ENGINE=InnoDB;"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `preferences` FROM `usermanagement`"}
